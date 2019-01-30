@@ -9,5 +9,5 @@ Here are some lists of good Software both on- and offline.
 * Wordpress
 
 ### Platforms (self hosted):
-* [Phascility](https://www.phacility.com/)
+* [Phacility](https://www.phacility.com/)
   > Atlassian Jira & Confluence alternative - Applications for code review, repository hosting, bug tracking, project management, and more
