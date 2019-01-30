@@ -52,7 +52,6 @@ Here are some interesting Articles and Websites about Data Science and everythin
 * [7 methods to perform Time Series forecasting](https://www.analyticsvidhya.com/blog/2018/02/time-series-forecasting-methods/)
 ##### Video-Tutorials:
 * [Machine Learning @Berkeley Videos](https://www.youtube.com/channel/UCXweTmAk9K-Uo9R6SmfGtjg)
-* []()
 
 ### Some Courses:
 * [Reinforcement Learning @ UCL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
